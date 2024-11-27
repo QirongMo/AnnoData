@@ -1,0 +1,18 @@
+annotations:
+- class_name: person
+  difficult: 0
+  feature: 0
+  xmax: 512
+  xmin: 494
+  ymax: 206
+  ymin: 165
+- class_name: person
+  difficult: 0
+  feature: 0
+  xmax: 417
+  xmin: 397
+  ymax: 233
+  ymin: 189
+filename: 00abb00056c646e9fda67a8577b362a0.jpg
+img_h: 480
+img_w: 640
